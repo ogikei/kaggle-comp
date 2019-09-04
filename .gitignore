@@ -1,0 +1,13 @@
+# ignore IntelliJ files
+*.iml
+.idea/
+
+# ignore mac files
+.DS_Store
+
+# ignore data
+./kickstarter-projects/ks-projects-201612.csv
+./kickstarter-projects/ks-projects-201801.csv
+
+# ignore jupyter files
+**/.ipynb_checkpoints/
